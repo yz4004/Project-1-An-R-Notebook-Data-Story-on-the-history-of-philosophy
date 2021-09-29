@@ -2,10 +2,3 @@
 
 An simple story of philosophy text data.
 
-
-module.exports = {
-    "name": "dirTree",       
-    "path": "./",            
-    "ignoreList": [/^\./],   
-    "type": "console"        
-}
